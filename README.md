@@ -1,1 +1,1 @@
-# Sparse-DNN-Thruogh-Zeros-norm-Regulization-
+# Sparse-DNN-Through-Zeros-norm
